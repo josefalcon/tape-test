@@ -1,0 +1,14 @@
+{
+  "name": "tape-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "library.js",
+  "scripts": {
+    "test": "tape tests/**/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^4.0.0"
+  }
+}
